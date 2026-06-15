@@ -1,3 +1,6 @@
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/Mcp_autoreg.java
+/Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/pojo/Tool.java
+/Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/pojo/ToolUsage.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/services/ToolExecutorService.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/services/ToolRegistryService.java
+/Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/util/ToolCache.java

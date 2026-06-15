@@ -1,3 +1,6 @@
 com/aidanchadha/mcp_autoreg/Mcp_autoreg.class
-com/aidanchadha/mcp_autoreg/services/ToolRegistryService.class
+com/aidanchadha/mcp_autoreg/pojo/ToolUsage.class
 com/aidanchadha/mcp_autoreg/services/ToolExecutorService.class
+com/aidanchadha/mcp_autoreg/pojo/Tool.class
+com/aidanchadha/mcp_autoreg/services/ToolRegistryService.class
+com/aidanchadha/mcp_autoreg/util/ToolCache.class
