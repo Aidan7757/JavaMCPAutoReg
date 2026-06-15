@@ -1,1 +1,3 @@
 com/aidanchadha/mcp_autoreg/Mcp_autoreg.class
+com/aidanchadha/mcp_autoreg/services/ToolRegistryService.class
+com/aidanchadha/mcp_autoreg/services/ToolExecutorService.class
