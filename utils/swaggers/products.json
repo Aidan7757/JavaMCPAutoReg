@@ -1,0 +1,33 @@
+{
+  "openapi": "3.0.3",
+  "info": {"title": "Products API", "version": "1.0.0"},
+  "paths": {
+    "/products": {
+      "get": {
+        "operationId": "listProducts",
+        "summary": "List products",
+        "description": "Fetch all products.",
+        "responses": {"200": {"description": "OK"}}
+      },
+      "post": {
+        "operationId": "createProduct",
+        "summary": "Create product",
+        "description": "Creates a product.",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "name": {"type": "string"},
+                  "price": {"type": "number"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {"201": {"description": "Created"}}
+      }
+    }
+  }
+}

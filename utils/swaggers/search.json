@@ -1,0 +1,17 @@
+{
+  "openapi": "3.0.3",
+  "info": {"title": "Search API", "version": "1.0.0"},
+  "paths": {
+    "/search": {
+      "get": {
+        "operationId": "search",
+        "summary": "Search",
+        "description": "Performs a search query.",
+        "parameters": [
+          {"name": "q", "in": "query", "schema": {"type": "string"}}
+        ],
+        "responses": {"200": {"description": "OK"}}
+      }
+    }
+  }
+}

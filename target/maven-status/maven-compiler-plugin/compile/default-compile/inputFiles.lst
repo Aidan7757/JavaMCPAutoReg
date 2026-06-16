@@ -4,8 +4,7 @@
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/pojo/DomainToolFamily.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/pojo/Tool.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/pojo/ToolUsage.java
-/Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/services/JsonParser.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/services/SwaggerParser.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/services/ToolExecutorService.java
 /Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/services/ToolRegistryService.java
-/Users/aidanchadha/code/mcp_autoreg/src/main/java/com/aidanchadha/mcp_autoreg/util/ToolCache.java
+/Users/aidanchadha/code/mcp_autoreg/src/main/java/tests/SwaggerParserTest.java

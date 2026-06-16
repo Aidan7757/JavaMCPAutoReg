@@ -6,6 +6,4 @@ com/aidanchadha/mcp_autoreg/Mcp_autoreg.class
 com/aidanchadha/mcp_autoreg/services/ToolExecutorService.class
 com/aidanchadha/mcp_autoreg/pojo/DomainToolFamily.class
 com/aidanchadha/mcp_autoreg/pojo/Tool.class
-com/aidanchadha/mcp_autoreg/services/JsonParser.class
-com/aidanchadha/mcp_autoreg/util/ToolCache.class
 com/aidanchadha/mcp_autoreg/interfaces/Parser.class

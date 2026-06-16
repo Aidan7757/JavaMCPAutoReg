@@ -3,8 +3,7 @@ package com.aidanchadha.mcp_autoreg.pojo;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+
 
 @Getter
 @Setter
@@ -17,7 +16,6 @@ public class Tool {
     /**
      * Describes the details of the tool usage, such as the method,
      */
-    @Autowired
     private ToolUsage toolDetails;
 
 }

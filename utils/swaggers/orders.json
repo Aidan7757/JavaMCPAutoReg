@@ -1,0 +1,33 @@
+{
+  "openapi": "3.0.3",
+  "info": {"title": "Orders API", "version": "1.0.0"},
+  "paths": {
+    "/orders": {
+      "get": {
+        "operationId": "listOrders",
+        "summary": "List orders",
+        "description": "Returns all orders.",
+        "responses": {"200": {"description": "OK"}}
+      },
+      "post": {
+        "operationId": "createOrder",
+        "summary": "Create order",
+        "description": "Creates a new order.",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "userId": {"type": "string"},
+                  "productIds": {"type": "array", "items": {"type": "string"}}
+                }
+              }
+            }
+          }
+        },
+        "responses": {"201": {"description": "Created"}}
+      }
+    }
+  }
+}
